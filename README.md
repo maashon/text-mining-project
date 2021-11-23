@@ -18,3 +18,7 @@ and here is the screenshot of the program terminal:
 ![Screenshot from 2019-07-02 20-47-34](https://user-images.githubusercontent.com/72257286/143079038-9855f183-0a9a-45af-a89a-4b57386d4454.png)
 
 
+The file weightsRms.h5 contains the model weights saved in h5 format and can be used if needed with the following command in python:
+
+model.load("the\path/to/h5/file")
+
